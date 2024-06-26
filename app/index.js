@@ -32,6 +32,7 @@ const Home = () =>{
                 }}
                 >
                     <Welcome
+                    
                     />
 
                     <Popularjobs/>
