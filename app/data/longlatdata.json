@@ -1,0 +1,77 @@
+[
+  {
+    "Longitude": -73.2290962,
+    "Latitude": 10.0364997,
+    "GeoLevelDescription": "Street"
+  },
+  {
+    "Longitude": 121.4345588,
+    "Latitude": 31.2183983,
+    "GeoLevelDescription": "City"
+  },
+  {
+    "Longitude": 104.0680736,
+    "Latitude": 30.6719459,
+    "GeoLevelDescription": "City"
+  },
+  {
+    "Longitude": -96.71793389999999,
+    "Latitude": 43.6000614,
+    "GeoLevelDescription": "RoofTop Derived"
+  },
+  {
+    "Longitude": 121.0637235,
+    "Latitude": "14.58180$2",
+    "GeoLevelDescription": "Street"
+  },
+  {
+    "Longitude": -77.084755,
+    "Latitude": 38.890763,
+    "GeoLevelDescription": "City"
+  },
+  {
+    "Longitude": 150.9503569,
+    "Latitude": -33.736450149999996,
+    "GeoLevelDescription": "RoofTop"
+  },
+  {
+    "Longitude": -80.8418877,
+    "Latitude": 35.226852550000004,
+    "GeoLevelDescription": "RoofTop"
+  },
+  {
+    "Longitude": 121.4345588,
+    "Latitude": 31.2183983,
+    "GeoLevelDescription": "City"
+  },
+  {
+    "Longitude": 71278207949178180,
+    "Latitude": 50.70771333350178,
+    "GeoLevelDescription": "RoofTop"
+  },
+  {
+    "Longitude": 0.09205905,
+    "Latitude": 51.5134829,
+    "GeoLevelDescription": "RoofTop"
+  },
+  {
+    "Longitude": 81.18652734999999,
+    "Latitude": 36.1527466,
+    "GeoLevelDescription": "RoofTop Derived"
+  },
+  {
+    "Longitude": 112.1204758,
+    "Latitude": 26.7805557,
+    "GeoLevelDescription": "City"
+  },
+  {
+    "Longitude": 145.0613481,
+    "Latitude": -37.9095602,
+    "GeoLevelDescription": "House"
+  },
+  {
+    "Longitude": -76.3004719,
+    "Latitude": 3.5097584,
+    "GeoLevelDescription": "House"
+  }
+]
