@@ -54,8 +54,8 @@ const HomeScreen = ({navigation}) =>{
                     }}
                     />
 
-                    {/* <Popularjobs/>
-                    <Nearbyjobs/> */}
+                    <Popularjobs/>
+                    <Nearbyjobs/>
                 </View>
             </ScrollView>
         </SafeAreaView>
