@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import * as Location from 'expo-location';
+import { FlatList } from 'react-native-gesture-handler';
 
 
 
@@ -45,8 +46,13 @@ const MapScreen = () => {
       {/* Add markers for service providers */}
       <Marker coordinate={{ latitude: location.latitude, longitude: location.longitude }} />
       <Marker coordinate={{latitude : data.latitude, longitude: data.longitude }} />
+      {data?.map((item) => (
 
-      console.log(data);
+        <Marker 
+        // key={`point-in-map-${data.indexOf({item})}`}
+        coordinate={{latitude: item.Latitude, longitude: item.Longitude}}
+        />
+      ))}
 
     </MapView>
   );
